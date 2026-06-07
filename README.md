@@ -72,4 +72,4 @@
 
 ---
 
-📌 *"Code that solves a problem is good. Code that is clean, readable, and scalable is better."*
+📌 *"First, solve the problem. Then, write the code."*
