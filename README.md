@@ -22,11 +22,10 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adi.tpt_03_)
 
 ---
-
 ## 🧠 LeetCode Stats:
 
 <p align="left">
-  <img src="https://leetcode-stats-six.vercel.app/?username=silentguess_o3&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/silentguess_o3?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
 ---
