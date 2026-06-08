@@ -34,11 +34,10 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dilemma03)
 
 ---
-
 ## 🧠 LeetCode Stats:
 
 <p align="left">
-  <img src="https://leetcode-stats-api.herokuapp.com/silentguess_o3" alt="LeetCode Stats" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/silentguess_o3?theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -75,14 +74,14 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush8860&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guesskinghmm&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush8860&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush8860&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guesskinghmm&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guesskinghmm&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
 
-📌 *"First, solve the problem. Then, write the code."* – John Johnson
+📌 *"First, solve the problem. Then, write the code."* 
