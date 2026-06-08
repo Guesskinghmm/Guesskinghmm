@@ -1,6 +1,8 @@
 # Hey 👋, I'm Aditya Tripathi
 
-### 🚀 MERN Stack Developer | ⚡ Real-time App Enthusiast | 🧠 DSA Explorer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&width=550&height=40&lines=3rd+year+ECE+%40+IIIT+Allahabad;MERN+Stack+Developer;Real-time+App+Enthusiast;DSA+Explorer" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Guesskinghmm&label=Profile%20views&color=0e76a8&style=flat" alt="Profile views" />
@@ -17,15 +19,26 @@
 
 ## 🌐 Connect with Me:
 
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tripathi-880098324/)
-[![Github](https://img.shields.io/badge/GITHUB-111213?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guesskinghmm)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adi.tpt_03_)
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[![Github](https://img.shields.io/badge/GITHUB-111213?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush8860)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_USERNAME)
+[![Discord](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
 
 ---
+
+## 🚀 Competitive Programming & Coding Profiles:
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/silentguess_o3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/silentguess_o3/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dilemma03)
+
+---
+
 ## 🧠 LeetCode Stats:
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/silentguess_o3?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-api.herokuapp.com/silentguess_o3" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -62,14 +75,14 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guesskinghmm&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush8860&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guesskinghmm&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guesskinghmm&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush8860&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush8860&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
 
-📌 *"First, solve the problem. Then, write the code."*
+📌 *"First, solve the problem. Then, write the code."* – John Johnson
