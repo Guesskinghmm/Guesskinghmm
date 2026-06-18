@@ -19,8 +19,8 @@
 
 ## 🌐 Connect with Me:
 
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-[![Github](https://img.shields.io/badge/GITHUB-111213?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush8860)
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tripathi-880098324/)
+[![Github](https://img.shields.io/badge/GITHUB-111213?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guesskinghmm)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_USERNAME)
 [![Discord](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
