@@ -70,17 +70,21 @@
 [![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
-
-## 📊 GitHub Stats:
-
+## 📈 Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guesskinghmm&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guesskinghmm&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guesskinghmm&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Guesskinghmm&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guesskinghmm&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<div align="center">
+
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guesskinghmm&theme=tokyonight" />
+
+</br>
+</br>
+
+</div>
 
 ---
 
